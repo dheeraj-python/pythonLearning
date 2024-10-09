@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1077b761-c085-4c58-9ee7-1e5eab206ed9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/RestfullBookerAPIAutomation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestfullBooker/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestfullBooker/test_getbookings.py" afterDir="false" />
-    </list>
+    <list default="true" id="1077b761-c085-4c58-9ee7-1e5eab206ed9" name="Changes" comment="Commiting New project - Restfullbooker API Automation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,9 +77,20 @@
       <option name="presentableId" value="Default" />
       <updated>1728495702073</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commiting New project - Restfullbooker API Automation">
+      <option name="closed" value="true" />
+      <created>1728502894050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728502894051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commiting New project - Restfullbooker API Automation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting New project - Restfullbooker API Automation" />
   </component>
 </project>
